@@ -1,4 +1,4 @@
-# Project: TitanicTitanic - Machine Learning from Disaster
+# Project: Titanic - Machine Learning from Disaster
 
 A project from Kaggle to learn Machine Learning.
 
